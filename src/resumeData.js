@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Zachary Nemeroff",
+    "role": "Frontend Software Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
@@ -82,7 +82,7 @@ let resumeData = {
       },
       {
         "name":"project3",
-        "description":"mobileapp",  
+        "description":"mobileapp",
         "imgurl":"images/portfolio/project2.png"
       },
       {
@@ -102,5 +102,5 @@ let resumeData = {
       }
     ]
   }
-  
+
   export default resumeData
