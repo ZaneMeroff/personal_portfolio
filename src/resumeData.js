@@ -4,8 +4,8 @@ let resumeData = {
     "role": "Frontend Software Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
-    "socialLinks":[
+    "roleDescription": "I'm an energetic Front-End Software Developer with a solid foundation in object-oriented programming and test driven development looking to expand my knowledge and technical skills.",
+    "socialLinks":[ 
         {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
