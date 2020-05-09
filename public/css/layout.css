@@ -63,6 +63,7 @@ header .banner-text h1 {
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   margin-top: -100px;
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
@@ -203,12 +204,12 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #d2d2d2;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 220px;
+   height: 220px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -615,7 +616,7 @@ ul#nav li.current a { color: #F06000; }
    color: inherit;
 }
 #call-to-action p {
-   color: #636363;
+   color: #d2d2d2;
    font-size: 17px;
 }
 /*#
@@ -791,7 +792,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #d2d2d2;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -917,6 +918,10 @@ call-to-action .button {
    font: 13px/36px 'opensans-regular', Sans-serif;
    color: #474747 !important;
    border: none;
+}
+
+.pdf-resume-button {
+  margin-top: 50px;
 }
 
 
