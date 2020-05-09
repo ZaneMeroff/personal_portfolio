@@ -4,26 +4,26 @@ let resumeData = {
     "role": "Frontend Software Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I'm an energetic Front-End Software Developer with a solid foundation in object-oriented programming and test driven development looking to expand my knowledge and technical skills.",
-    "socialLinks":[ 
+    "roleDescription": "Software Developer",
+    "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/zachary-nemeroff/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/ZaneMeroff",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/zanemeroff",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"My name is Zachary Nemeroff, and I’m a front end software developer and recent graduate of the Turing School of Software and Design. I have an affinity for test driven development and object-oriented programming with agile workflow processes. At Turing I focused on building applications using REST APIs with HTML5, CSS3, vanilla JavaScript, jQuery, React, and React Native using Git/GitHub for version control and creating comprehensive unit testing suites. I am seeking a new career opportunity where I can expand my knowledge and technical skills.",
+    "address":"Denver",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
