@@ -6,9 +6,6 @@ const gameOnDemo = 'https://www.youtube.com/watch?v=_E9j8tXz8e4&feature=share&fb
 const mtvMusicTriviaRepo = 'https://github.com/ZaneMeroff/mtv_music_trivia';
 const mtvMusicTriviaGame = 'https://mtv-music-trivia-mobile.herokuapp.com/intro';
 
-const simonRepo = 'https://github.com/ZaneMeroff/simon_game';
-const simonGame = 'https://zanemeroff.github.io/simon2';
-
 const jeopardyRepo = 'https://github.com/ZaneMeroff/jeopardy';
 const jeopardyGame = 'https://pjanks.github.io/jeopardy';
 
@@ -86,24 +83,6 @@ export default class Porfolio extends Component {
                   </p>
                   <a href={mtvMusicTriviaRepo} target='_blank'><button>view repo</button></a>
                   <a href={mtvMusicTriviaGame} target='_blank'><button onClick={onHerokuServerCall} style={{marginLeft:'50px'}}>play game</button></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <hr></hr>
-
-          <div className="overlay">
-            <div className="portfolio-item-meta">
-              <div className='project-container'>
-                <div style={{width: '90%'}}>
-                  <h3>Mr. Simon Web Game</h3>
-                  <p><span style={{fontStyle:'italic'}}>ReactJS • CSS</span><br></br>
-                  A simple simon says game where a computer player randomly selects a pattern of colored lights, and the
-                  user must match the pattern as it grows in complexity with each round.
-                  </p>
-                  <a href={simonRepo} target='_blank'><button>view repo</button></a>
-                  <a href={simonGame} target='_blank'><button style={{marginLeft:'50px'}}>play game</button></a>
                 </div>
               </div>
             </div>
