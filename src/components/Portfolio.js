@@ -58,7 +58,7 @@ export default class Porfolio extends Component {
               <div className='project-container'>
                 <div style={{width: '90%'}}>
                   <h3>Star Wars Jeopardy Game</h3>
-                  <p><span style={{fontStyle:'italic'}}>Vanilla JS • jQuery • SASS</span><br></br>
+                  <p><span style={{fontStyle:'italic'}}>vanilla JS • jQuery • SASS</span><br></br>
                   A Jeopardy game for three players using fetch requests to trivia API for question and answer
                   data. The project was thoroughly tested using Mocha & Chai with Chai Spies.
                   </p>
@@ -118,7 +118,7 @@ export default class Porfolio extends Component {
                   <p><span style={{fontStyle:'italic'}}>vanilla JS • HTML • CSS</span><br></br>
                   This was my first solo project at Turing School of Software & Design. It has a
                   simple file tree structure with just three JS files and uses ES6 syntax for class
-                  instance variables. I created this project after one month into learning JavaScript.
+                  instance variables. I created this project one month into learning JavaScript.
                   Oh, how far I've come!
                   </p>
                   <a href={whichMarioRepo} target='_blank'><button>view repo</button></a>
