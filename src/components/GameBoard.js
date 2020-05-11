@@ -637,7 +637,7 @@ const GameBoard = () => {
         <p className='rules-text'>
           It's you against Mr. Simon! When the game starts, Simon will create a color
           pattern that grows with each round. Your challenge is to match Simon's pattern
-          exactly as it grows in complexity.
+          by selecting the glowing lights in the correct order.
         </p>
       </div>
     </div>
