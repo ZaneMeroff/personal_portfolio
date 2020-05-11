@@ -16,7 +16,9 @@ export default class About extends Component {
             </div>
             <div className="nine columns main-col">
                <h2>Greetings!</h2>
-               <p>{resumeData.aboutme}</p>
+               <p>
+                  My name is Zachary Nemeroff, and I’m a front end software developer and recent graduate of the Turing School of Software and Design. I have an affinity for test driven development and object-oriented programming with agile workflow processes. At Turing I focused on building applications using REST APIs with HTML5, CSS3, vanilla JavaScript, jQuery, React, and React Native, using Git/GitHub for version control and creating comprehensive unit testing suites. I'm currently seeking a new career opportunity where I will be challenged daily, so that I may expand my knowledge and grow my technical skills. If you're up for a challenge, why not try the Mr. Simon Game I built below!
+               </p>
                <div className="row">
 
                   <div className="columns contact-details">
@@ -30,7 +32,7 @@ export default class About extends Component {
                   ZaNemeroff@gmail.com
        					  </p>
                   </div>
-                  <a href={resumeURL} target='_blank'><button className='pdf-resume-button'>view resume.pdf</button></a>
+                  <a href={resumeURL} target='_blank'><button style={{marginLeft: '30px'}} className='pdf-resume-button'>view resume.pdf</button></a>
 
                </div>
             </div>
