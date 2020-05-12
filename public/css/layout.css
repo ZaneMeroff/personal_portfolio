@@ -1033,3 +1033,22 @@ footer .social-links li:first-child { margin-left: 0; }
   font-family: 'Press Start 2P', cursive;
   font-size: 150%;
 }
+
+.nav-menu:hover {
+  background-color: rgba(182, 53, 185, 0.4);
+}
+
+.social-icons:focus,
+.nav-menu:focus,
+.down-circle:focus {
+  background-color: rgba(182, 53, 185, 0.4);
+}
+
+.zanem-email {
+  text-decoration-line: underline;
+  margin-top: -30px;
+}
+
+.zanem-email:focus {
+  background-color: rgba(182, 53, 185, 0.4);
+}
