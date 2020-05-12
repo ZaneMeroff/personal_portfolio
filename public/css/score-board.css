@@ -19,12 +19,17 @@
   font-family: 'Press Start 2P', cursive;
 }
 
-.new-game-button:hover {
+.new-game-button:hover,
+.new-game-button:focus {
   cursor: pointer;
   color: #313131;
   background-color: #FFF;
   border: 2px dotted #313131;
 }
+
+/* .new-game-button:focus {
+  background-color: purple;
+} */
 
 .round-display {
   color: #FFF;
