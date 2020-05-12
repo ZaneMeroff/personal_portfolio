@@ -45,7 +45,7 @@ export default class Porfolio extends Component {
                   Python with Flask. Unit tested with Jest and Enzyme.
                   </p>
                   <a href={gameOnRepo} target='_blank'><button>view repo</button></a>
-                  <a href={gameOnDemo} target='_blank'><button style={{marginLeft:'50px'}}>demo video</button></a>
+                  <a href={gameOnDemo} target='_blank'><button style={{marginLeft:'20px'}}>demo video</button></a>
                 </div>
               </div>
             </div>
@@ -63,7 +63,7 @@ export default class Porfolio extends Component {
                   data. The project was thoroughly tested using Mocha & Chai with Chai Spies.
                   </p>
                   <a href={jeopardyRepo} target='_blank'><button>view repo</button></a>
-                  <a href={jeopardyGame} target='_blank'><button style={{marginLeft:'50px'}}>play game</button></a>
+                  <a href={jeopardyGame} target='_blank'><button style={{marginLeft:'20px'}}>play game</button></a>
                 </div>
               </div>
             </div>
@@ -82,7 +82,7 @@ export default class Porfolio extends Component {
                   Database API. The app features 97% unit testing coverage using Jest and Enzyme.
                   </p>
                   <a href={mtvMusicTriviaRepo} target='_blank'><button>view repo</button></a>
-                  <a href={mtvMusicTriviaGame} target='_blank'><button onClick={onHerokuServerCall} style={{marginLeft:'50px'}}>play game</button></a>
+                  <a href={mtvMusicTriviaGame} target='_blank'><button onClick={onHerokuServerCall} style={{marginLeft:'20px'}}>play game</button></a>
                 </div>
               </div>
             </div>
@@ -102,7 +102,7 @@ export default class Porfolio extends Component {
                   are used for unit testing.
                   </p>
                   <a href={lemonWireRepo} target='_blank'><button>view repo</button></a>
-                  <a href={lemonWireLiveLink} target='_blank'><button onClick={onHerokuServerCall} style={{marginLeft:'50px'}}>live demo</button></a>
+                  <a href={lemonWireLiveLink} target='_blank'><button onClick={onHerokuServerCall} style={{marginLeft:'20px'}}>live demo</button></a>
                 </div>
               </div>
             </div>
@@ -122,7 +122,7 @@ export default class Porfolio extends Component {
                   Oh, how far I've come!
                   </p>
                   <a href={whichMarioRepo} target='_blank'><button>view repo</button></a>
-                  <a href={whichMarioGame} target='_blank'><button style={{marginLeft:'50px'}}>play game</button></a>
+                  <a href={whichMarioGame} target='_blank'><button style={{marginLeft:'20px'}}>play game</button></a>
                 </div>
               </div>
             </div>
