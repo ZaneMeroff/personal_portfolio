@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-let resumeURL = 'https://alumni.turing.io/sites/default/files/resumes/Zachary%20Nemeroff%20Resume2020.pdf';
+let resumeURL = 'https://alumni.turing.io/sites/default/files/resumes/Zachary_Nemeroff_resume_2020.pdf';
 
 export default class About extends Component {
 
@@ -22,15 +22,10 @@ export default class About extends Component {
                <div className="row">
 
                   <div className="columns contact-details">
-
                   <h2>Contact Details</h2>
-                  <p className="address">
-       						Zachary Nemeroff
-                  <br></br>
-                  Denver, CO
-                  <br></br>
-                  ZaNemeroff@gmail.com
-       					  </p>
+                  <p className="address">Zachary Nemeroff</p>
+                  <p className="address" style={{marginTop: -30}}>Denver, CO</p>
+                  <a href='mailto: ZaNemeroff@gmail.com' target='_blank'><p tabindex='0' className='zanem-email'>ZaNemeroff@gmail.com</p></a>
                   </div>
                   <a href={resumeURL} target='_blank'><button style={{marginLeft: '30px'}} className='pdf-resume-button'>view resume.pdf</button></a>
 
